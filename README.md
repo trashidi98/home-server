@@ -7,3 +7,5 @@ This page should grow with time from software, concepts and issues that I face w
 
 A huge page of ideas from Linode lots of servers to launch: https://www.linode.com/docs/guides/
 
+Setup VNC server: https://github.com/trashidi98/tightvnc-vnc-connect
+
