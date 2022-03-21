@@ -14,3 +14,5 @@ Setup VNC server: https://github.com/trashidi98/tightvnc-vnc-connect
 One intruiguing project for me has been cluster computation: https://pidramble.com/ pairs X rasberry Pis, kubernetes and ansible to orchestrate a webserver...jawdropping stuff
 
 Here's a whole website dedicated to things you can launch at home, this specific one is dedicated to docker webserver: https://www.smarthomebeginner.com/traefik-2-docker-tutorial/ this one describes the backbone for the whole media server (self hosting music, TV shows, etc). I think Anand has very relevant projects: https://www.smarthomebeginner.com/author/anand/
+
+Launch a team chat server: https://www.mumble.info/ OR https://www.teamspeak.com/en/
