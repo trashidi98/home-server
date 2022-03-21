@@ -16,3 +16,5 @@ One intruiguing project for me has been cluster computation: https://pidramble.c
 Here's a whole website dedicated to things you can launch at home, this specific one is dedicated to docker webserver: https://www.smarthomebeginner.com/traefik-2-docker-tutorial/ this one describes the backbone for the whole media server (self hosting music, TV shows, etc). I think Anand has very relevant projects: https://www.smarthomebeginner.com/author/anand/
 
 Launch a team chat server: https://www.mumble.info/ OR https://www.teamspeak.com/en/
+
+For teamspeak, here's an easy tutorial to follow: https://cloudzy.com/knowledge-base/how-to-set-up-teamspeak-server/
